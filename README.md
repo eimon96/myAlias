@@ -1,5 +1,5 @@
 # myAlias
-A simple app to kill my boredom and promote myself... or flex.
+You can use this as a tab-or whatever- in your application adding your own social accounts.
 
 Tested on Android 5.1.1 and Android 10.
 
