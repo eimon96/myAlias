@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myAlias</string>
+    <string name="welcome">Let me introduce myself..</string>
+    <string name="wel">Welcome!</string>
+    <string name="info">Nothing more to say</string>
+    <string name="stalk">So, feel free to stalk me.</string>
+</resources>
