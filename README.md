@@ -3,6 +3,8 @@ You can use this as a tab-or whatever- in your application adding your own socia
 
 Tested on Android 5.1.1 and Android 10.
 
+(I built the apk for practice)
+
 
 # Disclaimer
 All trademarks and logos are property of their respective owners.
