@@ -64,6 +64,12 @@ public class MainActivity extends AppCompatActivity {
         startActivity(web8);
     }
 
+    public void clickImdb (View view) {
+        Uri uri9 = Uri.parse("https://www.imdb.com/user/ur121055449/");
+        Intent web9 = new Intent(Intent.ACTION_VIEW, uri9);
+        startActivity(web9);
+    }
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
