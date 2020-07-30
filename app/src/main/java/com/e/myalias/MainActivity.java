@@ -70,6 +70,12 @@ public class MainActivity extends AppCompatActivity {
         startActivity(web9);
     }
 
+    public void clickTwitter (View view) {
+        Uri uri10 = Uri.parse("https://twitter.com/eimon9j6");
+        Intent web10 = new Intent(Intent.ACTION_VIEW, uri10);
+        startActivity(web10);
+    }
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
